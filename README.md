@@ -1,5 +1,10 @@
 <!-- GitHub Profile README - Aryan Sharma -->
 
+<!-- 🎯 Banner Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AryanSharma2206/AryanSharma2206/main/assets/banner.png" alt="Aryan Sharma Banner" width="100%" />
+</p>
+
 <h1 align="center">Hey 👋 I'm Aryan Sharma</h1>
 <h3 align="center">🚀 DevOps Engineer | 🌐 Cloud Enthusiast | 🧠 AI & ML Explorer</h3>
 
@@ -66,9 +71,10 @@
 
 ### 🚀 Projects
 
-- 🏋️‍♂️ [Gym Website (PHP + CI/CD + AWS)](https://github.com/AryanSharma2206/gym-website)
-- 🛠️ [LAMP Stack with SSL Automation (Terraform v2)](https://github.com/AryanSharma2206/website-CI-CD-terraform)
-- 📊 [Laptop Price Prediction ML Project](https://github.com/AryanSharma2206/laptop-price-predictor)
+- 🛠️ [GitHub Action CI/CD Pipeline](https://github.com/AryanSharma2206/github-action-project)
+- 🌐 [Website Deployment with Terraform v2](https://github.com/AryanSharma2206/website-CI-CD-terraform)
+- 🔒 [SSL Certificate Setup using Certbot](https://github.com/AryanSharma2206/SSL-Certificate-Setup)
+- 💡 [LAMP Stack Auto Setup on AWS](https://github.com/AryanSharma2206/LAMP-Project-Setup)
 
 ---
 
@@ -95,10 +101,10 @@
 
 ### 📌 Dynamic GitHub Badges
 
-![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma2206/gym-website?style=for-the-badge)
-![Repo size](https://img.shields.io/github/repo-size/AryanSharma2206/gym-website?style=for-the-badge&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma2206/github-action-project?style=for-the-badge)
+![Repo size](https://img.shields.io/github/repo-size/AryanSharma2206/website-CI-CD-terraform?style=for-the-badge&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/AryanSharma2206?style=for-the-badge)
-![Top Langs](https://img.shields.io/github/languages/top/AryanSharma2206/gym-website?style=for-the-badge)
+![Top Langs](https://img.shields.io/github/languages/top/AryanSharma2206/LAMP-Project-Setup?style=for-the-badge)
 
 ---
 
@@ -124,10 +130,16 @@
 ### 📌 Pinned Projects
 
 <p align="left">
-  <a href="https://github.com/AryanSharma2206/gym-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma2206&repo=gym-website&theme=tokyonight" />
+  <a href="https://github.com/AryanSharma2206/github-action-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma2206&repo=github-action-project&theme=tokyonight" />
   </a>
   <a href="https://github.com/AryanSharma2206/website-CI-CD-terraform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma2206&repo=website-CI-CD-terraform&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AryanSharma2206/SSL-Certificate-Setup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma2206&repo=SSL-Certificate-Setup&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AryanSharma2206/LAMP-Project-Setup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma2206&repo=LAMP-Project-Setup&theme=tokyonight" />
   </a>
 </p>
