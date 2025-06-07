@@ -2,8 +2,9 @@
 
 <!-- 🎯 Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AryanSharma2206/AryanSharma2206/main/assets/banner.png" alt="Aryan Sharma Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/AryanSharma2206/AryanSharma2206/main/banner.png" alt="Aryan Sharma Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hey 👋 I'm Aryan Sharma</h1>
 <h3 align="center">🚀 DevOps Engineer | 🌐 Cloud Enthusiast | 🧠 AI & ML Explorer</h3>
