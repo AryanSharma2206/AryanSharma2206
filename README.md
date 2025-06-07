@@ -1,11 +1,11 @@
-<!-- Professional GitHub Profile README - Aryan Sharma -->
+<!-- GitHub Profile README - Aryan Sharma -->
 
 <h1 align="center">Hey 👋 I'm Aryan Sharma</h1>
 <h3 align="center">🚀 DevOps Engineer | 🌐 Cloud Enthusiast | 🧠 AI & ML Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA2&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🚀+Automating+Everything+with+DevOps+Tools!;☁️+Deploying+Cloud+Infra+with+Terraform+%7C+AWS;🛠️+Intern+at+Dotesquars+%7C+Building+Live+Projects" alt="Typing SVG" />
-</p>
+<h4 align="center">
+🚀 Automating Infra with Terraform & GitHub Actions | ☁️ DevOps | 🛠️ Intern @ Dotesquars
+</h4>
 
 ---
 
@@ -24,14 +24,43 @@
 
 ---
 
-### 🧠 Skills & Expertise
+### 🧠 Skills & Expertise (Badges Style)
 
-`DevOps` `AWS` `Terraform v2` `Docker` `Kubernetes`  
-`Linux Server Management` `Virtualmin` `GitHub Actions` `CI/CD`  
-`WordPress + PhpMyAdmin` `SSL via Certbot` `Apache`  
-`Ansible` `SSH Configuration` `YAML Automation`  
-`LAMP Stack` `Website Hosting on EC2/Lightsail`  
-`Python` `Java` `MySQL` `HTML/CSS` `Bootstrap`  
+#### 🧰 DevOps | Cloud | Infrastructure Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualmin-0744ac?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSL%20Certbot-3B9252?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
+
+#### 💻 Web & Code Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PhpMyAdmin-F59C00?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+</p>
+
+#### ⚙️ Programming & Scripting Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
 
 ---
 
@@ -40,15 +69,6 @@
 - 🏋️‍♂️ [Gym Website (PHP + CI/CD + AWS)](https://github.com/AryanSharma2206/gym-website)
 - 🛠️ [LAMP Stack with SSL Automation (Terraform v2)](https://github.com/AryanSharma2206/website-CI-CD-terraform)
 - 📊 [Laptop Price Prediction ML Project](https://github.com/AryanSharma2206/laptop-price-predictor)
-
----
-
-### 📌 Dynamic GitHub Badges
-
-![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma2206/gym-website?style=for-the-badge)
-![Repo size](https://img.shields.io/github/repo-size/AryanSharma2206/gym-website?style=for-the-badge&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/AryanSharma2206?style=for-the-badge)
-![Top Langs](https://img.shields.io/github/languages/top/AryanSharma2206/gym-website?style=for-the-badge)
 
 ---
 
@@ -73,6 +93,15 @@
 
 ---
 
+### 📌 Dynamic GitHub Badges
+
+![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma2206/gym-website?style=for-the-badge)
+![Repo size](https://img.shields.io/github/repo-size/AryanSharma2206/gym-website?style=for-the-badge&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/AryanSharma2206?style=for-the-badge)
+![Top Langs](https://img.shields.io/github/languages/top/AryanSharma2206/gym-website?style=for-the-badge)
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="left">
@@ -92,7 +121,7 @@
 
 ---
 
-### 🔖 Pinned Projects
+### 📌 Pinned Projects
 
 <p align="left">
   <a href="https://github.com/AryanSharma2206/gym-website">
