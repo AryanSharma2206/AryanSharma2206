@@ -1,13 +1,16 @@
 <!-- GitHub Profile README - Aryan Sharma -->
-
 <!-- 🎯 Banner Section -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/AryanSharma2206/AryanSharma2206/main/banner.png" alt="Aryan Sharma Banner" width="100%" />
 </p>
 
-
 <h1 align="center">Hey 👋 I'm Aryan Sharma</h1>
 <h3 align="center">🚀 DevOps Engineer | 🌐 Cloud Enthusiast | 🧠 AI & ML Explorer</h3>
+
+<!-- Animated Person (Right side of intro) -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated person" width="250" align="right"/>
+</p>
 
 <h4 align="center">
 🚀 Automating Infra with Terraform & GitHub Actions | ☁️ DevOps | 🛠️ Intern @ Dotesquars
@@ -16,71 +19,64 @@
 ---
 
 ### 🌟 Quote / Motto
-
-> _“Code. Deploy. Scale. Repeat.”_  
-> _— Automating the future, one pipeline at a time._
+> “Code. Deploy. Scale. Repeat.”  
+> — Automating the future, one pipeline at a time.
 
 ---
 
 ### 💼 Current Role
-
-- 👨‍💻 **Intern @ Dotesquars** (DevOps & Cloud)  
-- 🏫 **B.Tech CSE | AI & DS** @ Poornima University  
-- 🌍 Based in **Jaipur, India**
+- 👨‍💻 Intern @ Dotesquars (DevOps & Cloud)  
+- 🏫 B.Tech CSE | AI & DS @ Poornima University  
+- 🌍 Based in Jaipur, India  
 
 ---
 
-### 🧠 Skills & Expertise (Badges Style)
+## ⚡ Skills  
 
-#### 🧰 DevOps | Cloud | Infrastructure Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtualmin-0744ac?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSL%20Certbot-3B9252?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-</p>
-
-#### 💻 Web & Code Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/PhpMyAdmin-F59C00?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-</p>
-
-#### ⚙️ Programming & Scripting Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" />
+<p align="center">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="90" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="65" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="90" />
+  </a>
+  <a href="https://pages.github.com/" target="_blank">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="80" /> 
+  </a>
 </p>
 
 ---
 
 ### 🚀 Projects
-
-- 🛠️ [GitHub Action CI/CD Pipeline](https://github.com/AryanSharma2206/github-action-project)
-- 🌐 [Website Deployment with Terraform v2](https://github.com/AryanSharma2206/website-CI-CD-terraform)
-- 🔒 [SSL Certificate Setup using Certbot](https://github.com/AryanSharma2206/SSL-Certificate-Setup)
-- 💡 [LAMP Stack Auto Setup on AWS](https://github.com/AryanSharma2206/LAMP-Project-Setup)
+- 🛠️ GitHub Action CI/CD Pipeline  
+- 🌐 Website Deployment with Terraform v2  
+- 🔒 SSL Certificate Setup using Certbot  
+- 💡 LAMP Stack Auto Setup on AWS  
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AryanSharma2206&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSharma2206&theme=tokyonight&hide_border=true" />
@@ -93,7 +89,6 @@
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AryanSharma2206&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
@@ -101,17 +96,16 @@
 ---
 
 ### 📌 Dynamic GitHub Badges
-
-![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma2206/github-action-project?style=for-the-badge)
-![Repo size](https://img.shields.io/github/repo-size/AryanSharma2206/website-CI-CD-terraform?style=for-the-badge&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/AryanSharma2206?style=for-the-badge)
-![Top Langs](https://img.shields.io/github/languages/top/AryanSharma2206/LAMP-Project-Setup?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/AryanSharma2206/AryanSharma2206?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/AryanSharma2206?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/languages/top/AryanSharma2206/AryanSharma2206?style=for-the-badge&color=green" />
+</p>
 
 ---
 
 ### 🔗 Connect with Me
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aryan-sharma-a2a240353/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -129,7 +123,6 @@
 ---
 
 ### 📌 Pinned Projects
-
 <p align="left">
   <a href="https://github.com/AryanSharma2206/github-action-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma2206&repo=github-action-project&theme=tokyonight" />
