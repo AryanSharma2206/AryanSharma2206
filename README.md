@@ -30,7 +30,7 @@
 
 ---
 
-### 🧠 Skills & Expertise (Badges Style)
+### 🧠 Skills & Expertise 
 
 #### 🧰 DevOps | Cloud | Infrastructure Tools
 
