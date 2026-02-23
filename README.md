@@ -1,6 +1,6 @@
 <!-- GitHub Profile README - Aryan Sharma -->
 
-<!-- 🎯 Banner Section -->
+<!-- 🎯 Banner Section --> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AryanSharma2206/AryanSharma2206/main/banner.png" alt="Aryan Sharma Banner" width="100%" />
