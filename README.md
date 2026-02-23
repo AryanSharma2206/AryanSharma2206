@@ -1,10 +1,10 @@
 <!-- GitHub Profile README - Aryan Sharma -->
 
 <!-- 🎯 Banner Section -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AryanSharma2206/AryanSharma2206/main/banner.png" alt="Aryan Sharma Banner" width="100%" />
 </p>
-
 
 <h1 align="center">Hey 👋 I'm Aryan Sharma</h1>
 <h3 align="center">🚀 DevOps Engineer | 🌐 Cloud Enthusiast | 🧠 AI & ML Explorer</h3>
@@ -17,20 +17,20 @@
 
 ### 🌟 Quote / Motto
 
-> _“Code. Deploy. Scale. Repeat.”_  
-> _— Automating the future, one pipeline at a time._
+> *“Code. Deploy. Scale. Repeat.”*
+> *— Automating the future, one pipeline at a time.*
 
 ---
 
 ### 💼 Current Role
 
-- 👨‍💻 **Intern @ Dotesquars** (DevOps & Cloud)  
-- 🏫 **B.Tech CSE | AI & DS** @ Poornima University  
-- 🌍 Based in **Jaipur, India**
+* 👨‍💻 **Intern @ Dotesquars** (DevOps & Cloud)
+* 🏫 **B.Tech CSE | AI & DS** @ Poornima University
+* 🌍 Based in **Jaipur, India**
 
 ---
 
-### 🧠 Skills & Expertise 
+### 🧠 Skills & Expertise
 
 #### 🧰 DevOps | Cloud | Infrastructure Tools
 
@@ -72,10 +72,10 @@
 
 ### 🚀 Projects
 
-- 🛠️ [GitHub Action CI/CD Pipeline](https://github.com/AryanSharma2206/github-action-project)
-- 🌐 [Website Deployment with Terraform v2](https://github.com/AryanSharma2206/website-CI-CD-terraform)
-- 🔒 [SSL Certificate Setup using Certbot](https://github.com/AryanSharma2206/SSL-Certificate-Setup)
-- 💡 [LAMP Stack Auto Setup on AWS](https://github.com/AryanSharma2206/LAMP-Project-Setup)
+* 🛠️ [GitHub Action CI/CD Pipeline](https://github.com/AryanSharma2206/github-action-project)
+* 🌐 [Website Deployment with Terraform v2](https://github.com/AryanSharma2206/website-CI-CD-terraform)
+* 🔒 [SSL Certificate Setup using Certbot](https://github.com/AryanSharma2206/SSL-Certificate-Setup)
+* 💡 [LAMP Stack Auto Setup on AWS](https://github.com/AryanSharma2206/LAMP-Project-Setup)
 
 ---
 
@@ -100,10 +100,18 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AryanSharma2206/AryanSharma2206/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 📌 Dynamic GitHub Badges
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma2206/github-action-project?style=for-the-badge)
-![Repo size](https://img.shields.io/github/repo-size/AryanSharma2206/website-CI-CD-terraform?style=for-the-badge&color=blue)
+![Repo size](https://img.shields.io/github/repo-size/AryanSharma2206/website-CI-CD-terraform?style=for-the-badge\&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/AryanSharma2206?style=for-the-badge)
 ![Top Langs](https://img.shields.io/github/languages/top/AryanSharma2206/LAMP-Project-Setup?style=for-the-badge)
 
