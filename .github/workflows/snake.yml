@@ -2,8 +2,8 @@ name: Generate Red Snake
 
 on:
 schedule:
-- cron: "0 */12 * * *"   # runs every 12 hours
-workflow_dispatch:         # manual run button
+- cron: "0 */12 * * *"
+workflow_dispatch:
 push:
 branches:
 - main
@@ -17,17 +17,17 @@ permissions:
   contents: write
 
 steps:
-  - name: Checkout
+  - name: Checkout repository
     uses: actions/checkout@v3
 
-  - name: Generate Red Snake
+  - name: Generate snake animation
     uses: Platane/snk@v3
     with:
       github_user_name: ${{ github.repository_owner }}
       outputs: |
         dist/github-snake-red.svg?palette=github-dark&color_snake=#FF0000
 
-  - name: Push to Output Branch
+  - name: Push to output branch
     uses: crazy-max/ghaction-github-pages@v3
     with:
       target_branch: output
