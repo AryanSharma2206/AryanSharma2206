@@ -103,7 +103,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AryanSharma2206/AryanSharma2206/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AryanSharma2206/AryanSharma2206/output/github-snake-red.svg" alt="Snake animation" />
 </div>
 
 ---
